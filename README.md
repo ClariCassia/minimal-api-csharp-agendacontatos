@@ -1,5 +1,11 @@
 # Minimal API para Gestão de Agenda de Contatos em C#
 
+<p align="center">
+  <img alt="Layout da aplicação" width="50%" src="./assets/image-api.png" />
+</p>
+
+## 💻 Projeto
+
 Esta API simples foi construída para gerenciar contatos em uma agenda. Ela oferece funcionalidades básicas para adicionar, atualizar, listar, excluir e buscar contatos por nome, permitindo a manipulação eficiente dos dados de forma minimalista e direta.
 
 ## Funcionalidades principais:
