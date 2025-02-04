@@ -1,0 +1,45 @@
+# Diretórios do Visual Studio
+.vs/
+.vs/*/v16/
+.vs/*/v17/
+**/FileContentIndex/
+**/ProjectEvaluation/
+*.user
+*.suo
+*.dotCover
+*.nvuser
+*.sln.cache
+*.sln.docstates
+*.sln.ide
+
+# Diretórios de build
+bin/
+obj/
+out/
+TestResults/
+*.csproj.user
+*.csproj.dotCover
+
+# Dependências e pacotes
+packages/
+node_modules/
+*.nupkg
+*.snupkg
+project.lock.json
+
+# Arquivos de log, cache e temporários
+*.log
+logs/
+*.cache
+*.pid
+*.swp
+
+# Configurações e credenciais locais
+appsettings.json
+appsettings.Development.json
+secrets.json
+.env
+
+# Arquivos gerados pelo sistema operacional
+.DS_Store
+Thumbs.db
